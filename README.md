@@ -33,7 +33,7 @@ Place your scripts in the appropriate folders:
 
 ```
 mkdir -p ~/startup
-git clone https://github.com/sq1000000/AutoRun.git ~/startup
+git clone https://github.com/sata1000000/AutoRun.git ~/startup
 cd ~/startup/internals/other
 ./install_service.sh $USER
 cd $HOME
